@@ -1,4 +1,4 @@
-# PROGRAMMING ASSIGNMENT #2
+# PROGRAMMING ASSIGNMENT #3
 ### by: LABAYAN, Princess Noreen - 2ECEA
 
 This repository is submitted as a partial requirement for **ECE 2112 – Advanced Computer Programming and Algorithms**. The objective of this experiment is to demonstrate the basic use of the Pandas library in loading a CSV file, selecting rows and columns, filtering data using Boolean conditions, and creating subsets of a DataFrame without modifying the original dataset.
